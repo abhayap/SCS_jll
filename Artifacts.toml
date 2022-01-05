@@ -1,0 +1,143 @@
+[[SCS]]
+arch = "aarch64"
+git-tree-sha1 = "77ca5d04753c1f2619cf5612d63db5f69bc247e9"
+os = "macos"
+
+    [[SCS.download]]
+    sha256 = "67624e6452ee7883bacdf116d1022ee9a4ebb3133cc66f70317cafb32bb63bc9"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.aarch64-apple-darwin.tar.gz"
+[[SCS]]
+arch = "aarch64"
+git-tree-sha1 = "b9a090d660a37fea2fc1c80f6b5c40a19a9b357f"
+libc = "glibc"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "cdd40c49ad2124a9f8633f2068fcadc8217638a304344f587b5e18e4d7e57a7f"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.aarch64-linux-gnu.tar.gz"
+[[SCS]]
+arch = "aarch64"
+git-tree-sha1 = "67b592d384ffbca3b51a7265a39a3ad1cd67faa0"
+libc = "musl"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "df094f6d27712a9f9f1aa47ab9c0a22b2cbd76da4ba5db71a529fef96a3470ce"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.aarch64-linux-musl.tar.gz"
+[[SCS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2c9f585ad38d60054d10b5d7a029432fcf131ddd"
+libc = "glibc"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "a9909613c14a080868ebd08241d7cfbab663520d5209eec08912d361ae3855c1"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.armv6l-linux-gnueabihf.tar.gz"
+[[SCS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ed2b78ab31e9384497d1309b404bbabdc87461e2"
+libc = "musl"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "7fe2766f8942b63280700bd09b2003afbe2a7c4385ebc09dfc0f040b1211d803"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.armv6l-linux-musleabihf.tar.gz"
+[[SCS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "34f3d9c8c3a8ff4cb996fb1ad37b9bc4e8bc25c5"
+libc = "glibc"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "b2411351334c1017ed50dc20044f37567a9eeade9a4690fa67c5a53627a93a4c"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.armv7l-linux-gnueabihf.tar.gz"
+[[SCS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ec57521c05f7c8edb00c6a65a2bd26155be5d1a7"
+libc = "musl"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "8a5a09ad124fe4d583bb815129bc0bac4d269c63802adbd584314c16aa454cca"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.armv7l-linux-musleabihf.tar.gz"
+[[SCS]]
+arch = "i686"
+git-tree-sha1 = "b18b2742aa4124c950dec137bab3ccc9df5e0533"
+libc = "glibc"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "c895830f3ae2809e599867ccd86e92167b9beef7c829031da64242c01338239d"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.i686-linux-gnu.tar.gz"
+[[SCS]]
+arch = "i686"
+git-tree-sha1 = "73d2fee9d3c9987d1d736b7329c82ac64fcc81f3"
+libc = "musl"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "51c4cbfd7f041aa1325e586a238f20a08ab26df06b68f8337a9e6af00d161602"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.i686-linux-musl.tar.gz"
+[[SCS]]
+arch = "i686"
+git-tree-sha1 = "28b834e286a40c98ed9e1b23cf3ce5cc13c2e3cd"
+os = "windows"
+
+    [[SCS.download]]
+    sha256 = "af13bbaa66ba988fc64e9cf7ab4639107360d3177b2694f7e56c3a7b04ebc979"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.i686-w64-mingw32.tar.gz"
+[[SCS]]
+arch = "powerpc64le"
+git-tree-sha1 = "f2d91eaa7b313934554a22283ca50a3aa533b07f"
+libc = "glibc"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "4554e6dc90abddc4b5056a1c632a890dc407e8825d86222552e90a65f19b677c"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.powerpc64le-linux-gnu.tar.gz"
+[[SCS]]
+arch = "x86_64"
+git-tree-sha1 = "f487af5ba2371577d745ca03ddb3b9ce073d257d"
+os = "macos"
+
+    [[SCS.download]]
+    sha256 = "7a3957f3e9799ad48909df82562a0d00cc065484b3719a39d4f97755c0ec8c4e"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.x86_64-apple-darwin.tar.gz"
+[[SCS]]
+arch = "x86_64"
+git-tree-sha1 = "ab372c73798e6a707282ed104c6043c0fed2124b"
+libc = "glibc"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "ece669333c85f125f57b56c47f25083dbcf0143d0d685290eea9283a0446a5ef"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.x86_64-linux-gnu.tar.gz"
+[[SCS]]
+arch = "x86_64"
+git-tree-sha1 = "268cf6b10768589032701059bf3514e28c253bca"
+libc = "musl"
+os = "linux"
+
+    [[SCS.download]]
+    sha256 = "2f31f66ff053de029fc17bb8e57dd04e0dcc178523cfa00c39ec8d5caa94d92e"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.x86_64-linux-musl.tar.gz"
+[[SCS]]
+arch = "x86_64"
+git-tree-sha1 = "b8e930f1b9c5ab95fc3f8fb9f8fb7ac43774dafe"
+os = "freebsd"
+
+    [[SCS.download]]
+    sha256 = "a9649e8b132e7ed5c3a773dc5fd9979c548c02dc08e7f608fdc40bee1b163e1f"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.x86_64-unknown-freebsd.tar.gz"
+[[SCS]]
+arch = "x86_64"
+git-tree-sha1 = "12a6d3740ae87c15bc2bfe668f3763dc75d03ba6"
+os = "windows"
+
+    [[SCS.download]]
+    sha256 = "164c81b98dcdae76375c0a225d0059ebaed99932c3b63b8b262754da881d3ae4"
+    url = "https://github.com/abhayap/SCS_jll/releases/download/SCS-v3.0.2+0/SCS.v3.0.2.x86_64-w64-mingw32.tar.gz"
